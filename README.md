@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64c3d53c8fdd3a18704ed9a9?variant=dark)](https://roadmap.sh)
+
+
+[![Love Angular badge](https://img.shields.io/badge/angular-love-blue?logo=angular&angular=love)](https://www.github.com/angular/angular)
 <!--
 **wilmer2000/wilmer2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
