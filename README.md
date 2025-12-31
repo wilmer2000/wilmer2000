@@ -1,9 +1,12 @@
-### Hi there 👋
+# Hi there 👋
+
+I'm Wilmer, Frontend-focused full-stack developer with 10+ years of experience building web applications. Strong in UI/UX, frontend frameworks, and REST APIs, with practical use of AI tools to work more efficiently.
+
+[![Angular badge](https://badges.ws/badge/Angular-F637E3?icon=Angular&style=flat)](https://www.github.com/angular/angular)
+[![Prisma badge](https://badges.ws/badge/Prisma-0a0a0a?icon=Prisma&style=flat)](https://github.com/prisma/prisma)
+[![NestJS badge](https://badges.ws/badge/NestJS-ea2845?icon=NestJS&style=flat)](https://github.com/nestjs/nest)
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64c3d53c8fdd3a18704ed9a9?variant=dark)](https://roadmap.sh)
-
-
-[![Love Angular badge](https://img.shields.io/badge/angular-love-blue?logo=angular&angular=love)](https://www.github.com/angular/angular)
 <!--
 **wilmer2000/wilmer2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
