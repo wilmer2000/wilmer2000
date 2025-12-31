@@ -4,6 +4,7 @@ I'm Wilmer, Frontend-focused full-stack developer with 10+ years of experience b
 
 [![Angular badge](https://badges.ws/badge/Angular-F637E3?icon=Angular&style=flat)](https://www.github.com/angular/angular)
 [![Prisma badge](https://badges.ws/badge/Prisma-0a0a0a?icon=Prisma&style=flat)](https://github.com/prisma/prisma)
+[![JS badge](https://badges.ws/badge/JavaScript-8c802a?icon=javascript)]()
 [![NestJS badge](https://badges.ws/badge/NestJS-ea2845?icon=NestJS&style=flat)](https://github.com/nestjs/nest)
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64c3d53c8fdd3a18704ed9a9?variant=dark)](https://roadmap.sh)
